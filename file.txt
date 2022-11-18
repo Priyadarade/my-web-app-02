@@ -1,3 +1,8 @@
 This is file added from master
 And we are going to merge it with dev branch
+<<<<<<< HEAD
 This is different content adede at 4th line  to create conflict
+=======
+We are adding some content at 4th line for conflict
+>>>>>>> deb
+Resolve conflict and dd your custom code and save it
